@@ -1,12 +1,10 @@
-# React + Vite
+React Meeting Planner App (Built with Vite)
+This project is a user-friendly meeting management application built with the following technologies:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend: React JS, leveraging its component-based architecture for a dynamic and interactive user interface. The project is bundled and optimized for speed and efficiency using Vite.
+Backend & Data Storage: Firebase, providing real-time data storage and retrieval for meeting details.
+Key Features:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Effortless Meeting Creation: Users can easily schedule new meetings with relevant information.
+Comprehensive Meeting Overview: A clear and organized view of all scheduled meetings is available to the user.
+Personalized Bookmark System: Users can mark important meetings for quick access and prioritization.
